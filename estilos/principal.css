@@ -1,0 +1,54 @@
+.barra{
+    margin-top: 30px;
+    width: 550px;
+}
+
+.contenido{
+    background-color: #e8edf1;
+    width: 550px;
+    height: 480px;
+}
+
+.logotipoOh{
+    float: center;
+    width: 60px;
+}
+
+.logotipopv{
+    float: right;
+    margin-top: 20px;
+    width: 100px;
+}
+
+.btncategoria{
+    float: left;
+    margin-top: 20px;
+}
+
+.barrabuscar{
+    padding-top: 20px;
+    width: 380px;
+}
+
+h2{
+    padding-top: 20px;
+    color: teal;
+}
+.barrabuscar2{
+    background-color: white;
+    border-radius: 15px;
+    
+}
+
+.barrabuscar2 .textobuscar{
+    border: 0;
+    border-color:none;
+    border-radius: 15px;
+}
+
+.barrabuscar2 .btnlupa{
+    color:#78BBF9;
+}
+
+
+

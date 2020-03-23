@@ -1,0 +1,39 @@
+
+
+.logotipoOh{
+      width: 100px;
+      margin-top: 20px;
+      
+}
+
+.ingreso{
+    background: #6dd5ed;
+    margin-top: 20px;
+    width: 380px;
+    height: 500px;
+}
+
+h4{
+   color:white;
+}
+
+.barraIngreso{
+    background: white;
+    margin-top: 20px;
+    width: 280px;
+    height: 170px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+h6{
+    color: #86adcd;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+.imagenPlazaVea{
+    width: 100%;
+    margin-top: 40px;
+}
